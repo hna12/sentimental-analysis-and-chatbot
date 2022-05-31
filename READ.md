@@ -17,5 +17,6 @@
 13. 가구 인테리어
 14. 기타
 
-* pipeline 
+* pipeline:
+ 
 Data preprocessing -> sentimental analysis (bert) -> chatbot (transformer)
